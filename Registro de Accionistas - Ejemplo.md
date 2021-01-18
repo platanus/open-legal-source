@@ -54,20 +54,20 @@ Domicilio:
 
 ##### Folio 3
 
-Accionista: 
+Accionista: Trabajador 
 
-RUT:
+RUT: 33.444.555-6
 
-Correo Electrónico:
+Correo Electrónico: trabajador@gmail.com
 
 Representante: 
 
 Domicilio:
 
-| Fecha | Operación | N° de acciones | Serie | Título | Total de Acciones | Fecha de Pago/Observaciones |
-| ----- | :-------- | -------------- | ----- | ------ | ----------------- | --------------------------- |
-|       |           |                |       |        |                   |                             |
-|       |           |                |       |        |                   |                             |
+| Fecha    | Operación   | N° de acciones | Serie | Título | Total de Acciones | Fecha de Pago/Observaciones |
+| -------- | :---------- | -------------- | ----- | ------ | ----------------- | --------------------------- |
+| 22/03/21 | suscripción | 10.000         | única | 3      | 10.000            | totalmente pagadas 22/03/21 |
+|          |             |                |       |        |                   |                             |
 
 ------
 
