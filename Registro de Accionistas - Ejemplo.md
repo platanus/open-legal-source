@@ -91,23 +91,24 @@ Domicilio:
 | -------- | :---------- | -------------- | ----- | ------ | ----------------- | ------------------------------------------------------------ |
 | 06/11/23 | suscripción | 52.632         | A     | 4      | 52.632 Serie A    | 20.000 pagadas el 06/11/23<br />32.632 a ser pagadas en 12 meses |
 | 16/12/23 | pago        | 17.632         | A     |        | 52.632 Serie A    | restan por ser pagadas 15.000                                |
+| 15/04/24 | venta       | 15.000         | A     |        | 37.632 Serie A    | venta de acciones no pagadas                                 |
 
 ------
 
 ##### Folio 5
 
-Accionista: 
+Accionista: **Accionista Comprador**
 
 RUT: 
 
-Correo Electrónico:
+Correo Electrónico: accionistaco@gmail.com
 
 Representante: 
 
 Domicilio:
 
-| Fecha | Operación | N° de acciones | Serie | Título | Total de Acciones | Fecha de Pago/Observaciones |
-| ----- | :-------- | -------------- | ----- | ------ | ----------------- | --------------------------- |
-|       |           |                |       |        |                   |                             |
-|       |           |                |       |        |                   |                             |
+| Fecha    | Operación | N° de acciones | Serie | Título | Total de Acciones | Fecha de Pago/Observaciones   |
+| -------- | :-------- | -------------- | ----- | ------ | ----------------- | ----------------------------- |
+| 15/04/24 | compra    | 15.000         | A     | 6      | 15.000 Serie A    | compra de acciones no pagadas |
+| 15/04/24 | pago      | 15.000         | A     |        | 15.000 Serie A    | totalmente pagadas            |
 
