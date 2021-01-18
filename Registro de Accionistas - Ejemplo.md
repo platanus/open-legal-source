@@ -16,6 +16,8 @@ Acciones Serie A: 52.632
 
 Acciones en reserva para stock option: 65.000 ordinarias
 
+Pacto de accionista: suscrito por Inversionista A y Accionista Comprador
+
 ------
 
 ##### Folio 1
@@ -30,10 +32,10 @@ Representante:
 
 Domicilio: 
 
-| Fecha    | Operación   | N° de acciones | Serie      | Título | Total de Acciones | Fecha de Pago/Observaciones |
-| -------- | :---------- | -------------- | ---------- | ------ | ----------------- | --------------------------- |
-| 18/01/21 | suscripción | 450.000        | ordinarias | 1      | 450.000           | acto constitución           |
-|          |             |                |            |        |                   |                             |
+| Fecha    | Operación   | N° de acciones | Serie      | Título | Total de Acciones | Fecha de Pago/Observaciones   |
+| -------- | :---------- | -------------- | ---------- | ------ | ----------------- | ----------------------------- |
+| 18/01/21 | suscripción | 450.000        | ordinarias | 1      | 450.000           | acto constitución (prendadas) |
+|          |             |                |            |        |                   |                               |
 
 ------
 
