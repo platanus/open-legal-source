@@ -14,7 +14,7 @@ Acciones Ordinarias: 1.000.000
 
 Acciones Serie A: 52.632
 
-Acciones en reserva para stock option: 90.000 ordinarias
+Acciones en reserva para stock option: 65.000 ordinarias
 
 ------
 
@@ -71,7 +71,7 @@ Domicilio:
 | Fecha    | Operación   | N° de acciones | Serie      | Título | Total de Acciones | Fecha de Pago/Observaciones |
 | -------- | :---------- | -------------- | ---------- | ------ | ----------------- | --------------------------- |
 | 22/03/21 | suscripción | 10.000         | ordinarias | 3      | 10.000            | totalmente pagadas 22/03/21 |
-|          |             |                |            |        |                   |                             |
+| 07/11/23 | suscripción | 25.000         | ordinarias | 5      | 35.000            | totalmente pagadas 22/03/21 |
 
 ------
 
@@ -90,7 +90,7 @@ Domicilio:
 | Fecha    | Operación   | N° de acciones | Serie | Título | Total de Acciones | Fecha de Pago/Observaciones                                  |
 | -------- | :---------- | -------------- | ----- | ------ | ----------------- | ------------------------------------------------------------ |
 | 06/11/23 | suscripción | 52.632         | A     | 4      | 52.632 Serie A    | 20.000 pagadas el 06/11/23<br />32.632 a ser pagadas en 12 meses |
-|          |             |                |       |        |                   |                                                              |
+| 16/12/23 | pago        | 17.632         | A     |        | 52.632 Serie A    | restan por ser pagadas 15.000                                |
 
 ------
 
