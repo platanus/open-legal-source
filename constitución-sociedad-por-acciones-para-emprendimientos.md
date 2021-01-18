@@ -190,7 +190,7 @@ De todas formas, la Sociedad subsistirá como persona jurídica para los efectos
 
 # DISPOSICIONES TRANSITORIAS.
 
-**Artículo Primero Transitorio:** El capital de la Sociedad, que asciende a la suma de \$\[\*\]
+Artículo Primero Transitorio: El capital de la Sociedad, que asciende a la suma de $\[\*\] dividido en \[\*\] acciones ordinarias, nominativas y sin valor nominal, ha sido suscrito y pagado en el acto de constitución de la siguiente forma: a) [nombre accionista] ha suscrito [número de acciones] ordinarias por un valor de $\[\*\], monto que ha sido íntegramente pagado en el acto de constitución; b) [nombre accionista] ha suscrito [número de acciones] ordinarias por un valor de $\[\*\], monto que ha sido íntegramente pagado en el acto de constitución; y c) las restantes \[\*\] acciones deberán ser suscritas en el plazo de cinco años contados desde esta fecha.
 
 **Artículo Segundo Transitorio**: [designación de apoderado de administrador].
 
