@@ -6,11 +6,15 @@
 
 ------
 
-Capital: $1.000.000
+Capital: $301.000.000
 
-Acciones: 1.000.000
+Acciones Totales: 1.052.632
 
-Acciones en reserva para stock option: 100.000
+Acciones Ordinarias: 1.000.000 
+
+Acciones Serie A: 52.632
+
+Acciones en reserva para stock option: 90.000 ordinarias
 
 ------
 
@@ -26,10 +30,10 @@ Representante:
 
 Domicilio: 
 
-| Fecha    | Operación   | N° de acciones | Serie | Título | Total de Acciones | Fecha de Pago/Observaciones |
-| -------- | :---------- | -------------- | ----- | ------ | ----------------- | --------------------------- |
-| 18/01/21 | suscripción | 450.000        | única | 1      | 450.000           | acto constitución           |
-|          |             |                |       |        |                   |                             |
+| Fecha    | Operación   | N° de acciones | Serie      | Título | Total de Acciones | Fecha de Pago/Observaciones |
+| -------- | :---------- | -------------- | ---------- | ------ | ----------------- | --------------------------- |
+| 18/01/21 | suscripción | 450.000        | ordinarias | 1      | 450.000           | acto constitución           |
+|          |             |                |            |        |                   |                             |
 
 ------
 
@@ -45,16 +49,16 @@ Representante: Fundador B
 
 Domicilio: 
 
-| Fecha    | Operación   | N° de acciones | Serie | Título | Total de Acciones | Fecha de Pago/Observaciones |
-| -------- | :---------- | -------------- | ----- | ------ | ----------------- | --------------------------- |
-| 18/01/21 | suscripción | 450.000        | única | 2      | 450.000           | acto constitución           |
-|          |             |                |       |        |                   |                             |
+| Fecha    | Operación   | N° de acciones | Serie      | Título | Total de Acciones | Fecha de Pago/Observaciones |
+| -------- | :---------- | -------------- | ---------- | ------ | ----------------- | --------------------------- |
+| 18/01/21 | suscripción | 450.000        | ordinarias | 2      | 450.000           | acto constitución           |
+|          |             |                |            |        |                   |                             |
 
 ------
 
 ##### Folio 3
 
-Accionista: Trabajador 
+Accionista: **Trabajador** 
 
 RUT: 33.444.555-6
 
@@ -64,29 +68,29 @@ Representante:
 
 Domicilio:
 
-| Fecha    | Operación   | N° de acciones | Serie | Título | Total de Acciones | Fecha de Pago/Observaciones |
-| -------- | :---------- | -------------- | ----- | ------ | ----------------- | --------------------------- |
-| 22/03/21 | suscripción | 10.000         | única | 3      | 10.000            | totalmente pagadas 22/03/21 |
-|          |             |                |       |        |                   |                             |
+| Fecha    | Operación   | N° de acciones | Serie      | Título | Total de Acciones | Fecha de Pago/Observaciones |
+| -------- | :---------- | -------------- | ---------- | ------ | ----------------- | --------------------------- |
+| 22/03/21 | suscripción | 10.000         | ordinarias | 3      | 10.000            | totalmente pagadas 22/03/21 |
+|          |             |                |            |        |                   |                             |
 
 ------
 
 ##### Folio 4
 
-Accionista:
+Accionista: **Inversionista A**
 
-RUT:
+RUT: 99.888.777-6
 
-Correo Electrónico:
+Correo Electrónico: InversionistaA@gmail.com
 
 Representante: 
 
 Domicilio:
 
-| Fecha | Operación | N° de acciones | Serie | Título | Total de Acciones | Fecha de Pago/Observaciones |
-| ----- | :-------- | -------------- | ----- | ------ | ----------------- | --------------------------- |
-|       |           |                |       |        |                   |                             |
-|       |           |                |       |        |                   |                             |
+| Fecha    | Operación   | N° de acciones | Serie | Título | Total de Acciones | Fecha de Pago/Observaciones                                  |
+| -------- | :---------- | -------------- | ----- | ------ | ----------------- | ------------------------------------------------------------ |
+| 06/11/23 | suscripción | 52.632         | A     | 4      | 52.632 Serie A    | 20.000 pagadas el 06/11/23<br />32.632 a ser pagadas en 12 meses |
+|          |             |                |       |        |                   |                                                              |
 
 ------
 
